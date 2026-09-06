@@ -1,0 +1,8 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv",
+  "notebook.lineNumbers": "off",
+  "notebook.output.fontSize": 16,
+  "notebook.markup.fontSize": 16,
+  "files.watcherExclude": {"**/.venv/**": true},
+  "search.exclude": {"**/.venv": true}
+}

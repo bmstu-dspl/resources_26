@@ -1,0 +1,22 @@
+[project]
+name = "resources-26"
+version = "0.1.0"
+description = "Data Science Programming Languages course resources, 2026"
+readme = "README.md"
+requires-python = ">=3.14,<3.15"
+dependencies = [
+  "folium>=0.20.0",
+  "geopandas>=1.1.1",
+  "jupyter>=1.1.1",
+  "matplotlib>=3.10.6",
+  "numba>=0.62.1",
+  "numpy>=2.2.6",
+  "openpyxl>=3.1.5",
+  "pandas>=2.3.2",
+  "polars>=1.33.0",
+  "rtree>=1.4.1",
+  "scikit-image>=0.25.2",
+  "scikit-learn>=1.7.1",
+  "scipy>=1.15.3",
+  "seaborn>=0.13.2",
+]

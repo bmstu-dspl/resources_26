@@ -41,6 +41,8 @@ uv run --locked jupyter notebook
 0. [Введение в дисциплину](slides/0_intro.pptx)
 1. [История языков и основы Python](slides/lecture1.pdf)
 2. [Функции в Python](slides/lecture2.pdf) — 12.10.2026
+3. [Тестирование в Python](slides/lecture3.pdf) — 26.10.2026
+4. [Библиотеки для анализа данных](slides/lecture4.pdf) — 26.10.2026
 
 ## Структура
 

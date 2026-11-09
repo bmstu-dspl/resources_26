@@ -46,6 +46,7 @@ uv run --locked jupyter notebook
 2. [Функции в Python](slides/lecture2.pdf) — 12.10.2026
 3. [Тестирование в Python](slides/lecture3.pdf) — 26.10.2026
 4. [Библиотеки для анализа данных](slides/lecture4.pdf) — 26.10.2026
+5. [CPython](slides/lecture5.pdf) — 09.11.2026
 
 ## Структура
 
